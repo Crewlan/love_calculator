@@ -1,0 +1,11 @@
+{
+    "check_compatibility": "Check Compability",
+    "first_name": "First name",
+    "second_name": "Second name",
+    "compatibility": "compability is",
+    "and": "and",
+    "result": "Result",
+    "percentage": "%",
+    "check_text": "Please input name",
+    "check_details": "Please input name valid in field"
+}

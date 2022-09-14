@@ -1,0 +1,12 @@
+{
+    "check_compatibility": "Checar compatibilidade",
+    "first_name": "Primeiro nome",
+    "second_name": "Segundo nome",
+    "compatibility": "Compatibilidade de",
+    "and": "e",
+    "and_is": "é de",
+    "percentage": "%",
+    "result": "Resultado",
+    "check_text": "Por favor coloque um nome",
+    "check_details": "Insira um nome valido no campo"
+}
